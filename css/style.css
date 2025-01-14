@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+   
+    /* background-color: #b0d07c; */
+ 
+}
+.container{
+   display: flex;
+   flex-direction: column;
+   align-items:center; 
+   justify-content: center;
+   margin-top: 50px;
+}
+
+h1{
+    /* font-family: "Playwrite DE SAS Guides", cursive; */
+    font-weight: 500;
+    font-style: normal;
+    font-style: normal;text-transform: uppercase;
+    color: #d964cb;
+  
+}
