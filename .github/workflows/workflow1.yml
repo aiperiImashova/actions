@@ -5,7 +5,7 @@ name: push-to-ec2
 on:
   push:
     branches:
-      - main
+      - test
 
 # Выполнить сценарий ниже
 jobs:
